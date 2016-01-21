@@ -3,9 +3,8 @@
   font-size: 40px;
 }
 
-#pigLatin, .pigLatinHeader{
+#countBy, .countByHeader{
   text-align: center;
-  box-sizing: padding-box;
 }
 
 #englishSentence {
