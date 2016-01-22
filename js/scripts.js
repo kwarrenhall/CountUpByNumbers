@@ -11,11 +11,27 @@ $(document).ready(function(){
 });
 
 
-// back end*********
-function countUp(number, counter) {
+// // back end*********
+// function countUp(number, counter) {
+//   var outPut = [];
+//   for (var i = counter; i <= number; i += counter){
+//   outPut.push(i);
+//   }
+//   return outPut;
+// }
+//
+
+
+// var number = countUp(1, 30);
+
+If function countUp(number, counter) {
   var outPut = [];
   for (var i = counter; i <= number; i += counter){
   outPut.push(i);
   }
   return outPut;
+} else if function divisibleBy3(number) {
+  (number % 3 === 0);
+ return pong;
 }
+});
